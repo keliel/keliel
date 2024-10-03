@@ -1,4 +1,6 @@
-## Well, hello there 👋
+# Well, hello there 👋
+
+**Name's Hannah. Born and raised next to the Rhein river in 🇩🇪 Germany.**
 
 This profile page is currently under construction as I play around with all the options I got 🏗️
 
