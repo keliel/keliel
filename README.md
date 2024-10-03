@@ -2,6 +2,15 @@
 
 **Name's Hannah. Born and raised next to the Rhein river in 🇩🇪 Germany.**
 
+## 📃 Background
+- 🎓 Graduated from @th-koeln
+- 🐣 First steps @RTLDeutschland
+- 🏢 Worked on
+  - 📈 B2B - SaaS platforms for HR and strategic business management
+  - 🏪 B2C - eFood grocery store delivery and pickup service
+
+---
+
 This profile page is currently under construction as I play around with all the options I got 🏗️
 
 
