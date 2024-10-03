@@ -7,7 +7,7 @@ Until then, here are some backlinks to my official socials...
 <div align="center">
 
 [![X](https://img.shields.io/twitter/follow/_keliel_?style=for-the-badge&logo=X
-)](https://x.com/_keliel_) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]() [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Hannah_Schinz)
+)](https://x.com/_keliel_) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hschinz) [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Hannah_Schinz)
 
 </div>
 <!--
