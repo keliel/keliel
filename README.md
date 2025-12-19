@@ -20,7 +20,7 @@ This profile page is currently under construction as I play around with all the 
 
 *some backlinks to my official socials...*
 
-[![X](https://img.shields.io/twitter/follow/_keliel_?style=for-the-badge&logo=X)](https://x.com/_keliel_) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hschinz) [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Hannah_Schinz)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hschinz) [![XING](https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Hannah_Schinz) [![X](https://img.shields.io/twitter/follow/_keliel_?style=for-the-badge&logo=X)](https://x.com/_keliel_)
 
 </div>
 <!--
