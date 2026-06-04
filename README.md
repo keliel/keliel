@@ -6,8 +6,9 @@
 - 🎓 Graduated from [@th-koeln](https://github.com/th-koeln)
 - 🐣 First steps [@RTLDeutschland](https://www.linkedin.com/company/rtl-deutschland/)
 - 🏢 Worked on
-  - 📈 B2B - SaaS platforms for HR and strategic business management
+  - 📈 B2B - SaaS platform for HR and talent management
   - 🏪 B2C - eFood grocery store delivery and pickup service
+  - 📊 B2B - SaaS platform for strategic business management
 
 ---
 
